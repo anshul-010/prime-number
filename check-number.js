@@ -8,7 +8,7 @@ for (let i=2; i<=num; i++){
         count++
     }
 }
-if(count=1){
+if(count==1){
     console.log("Yes")
     
 }
